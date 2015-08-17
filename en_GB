@@ -1,0 +1,7 @@
+tile.blockAiry.5.name=Energised Aura Node
+tile.blockTube.7.name=Essentia Crystalliser
+item.ItemShovelThaumium.name=Thaumium Spade
+item.ItemCrystalEssence.name=Crystallised Essence
+item.ItemShovelVoid.name=Void Spade
+tc.markerchange=Set marker colour to %n
+tc.markerchangeany=Set to any colour
